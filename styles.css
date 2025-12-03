@@ -1,0 +1,34 @@
+div {
+  color: white;
+  background-color: red;
+  text-align: center;
+}
+
+.class.odd {
+  color: black;
+  background-color: pink;
+  font-family: Verdana, "DejaVu", "Sans", sans-serif;
+}
+
+#one-id {
+  color: blue;
+  font-size: 36px;
+}
+
+.class.odd.cooler {
+  color: black;
+  background-color: pink;
+  font-family: Verdana, "DejaVu", "Sans", sans-serif;
+  font-size: 24px;
+}
+
+#two-id {
+  color: black;
+  background-color: lightgreen;
+  font-size: 24px;
+}
+
+.button {
+  font-size: 28px;
+  font-family: Helvetica, "Times New Roman", sans-serif;
+}
